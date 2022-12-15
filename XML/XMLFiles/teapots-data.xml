@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="teapots-styles.xslt"?>
+<teapots>
+	<teapot id="1">
+		<title>Teapot 1</title>
+		<quantity>3</quantity>
+		<price>1200</price>
+		<imgUrl>someurl</imgUrl>
+		<description>Good teapot</description>
+		<manufacturerCountry>Germany</manufacturerCountry>
+		<capacity>1.7</capacity>
+		<warrantyInMonths>12</warrantyInMonths>
+	</teapot>
+	<teapot id="2">
+		<title>Teapot 2</title>
+		<quantity>3</quantity>
+		<price>1200</price>
+		<imgUrl>someurl</imgUrl>
+		<description>Good teapot</description>
+		<manufacturerCountry>Germany</manufacturerCountry>
+		<capacity>1.6</capacity>
+		<warrantyInMonths>12</warrantyInMonths>
+	</teapot>
+</teapots>
